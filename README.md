@@ -6,3 +6,5 @@ rotate or expand over time.
 cloudBloomer produces output in two modes, ‘live; and ‘save’. In ‘live’ mode, it renders the manipulation in a
 window on screen; in ‘save’ mode, it writes rendered frames as a sequence of images to disk (that you can
 later import into DaVinci Resolve as a movie)
+
+CHECK PDF for documentation.
